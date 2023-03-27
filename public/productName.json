@@ -1,0 +1,32 @@
+[
+    {
+        "category_id": "01",
+        "category_name": "Food",
+        "image": "https://i.ibb.co/JdsVVj8/birds.jpg"
+    },
+    {
+        "category_id": "02",
+        "category_name": "Fish",
+        "image": "https://i.ibb.co/QYhps8C/cats-1.jpg"
+    },
+    {
+        "category_id": "03",
+        "category_name": "Meat",
+        "image": "https://i.ibb.co/FKrhkfK/dogs.jpg"
+    },
+    {
+        "category_id": "01",
+        "category_name": "Food",
+        "image": "https://i.ibb.co/JdsVVj8/birds.jpg"
+    },
+    {
+        "category_id": "02",
+        "category_name": "Fish",
+        "image": "https://i.ibb.co/QYhps8C/cats-1.jpg"
+    },
+    {
+        "category_id": "03",
+        "category_name": "Meat",
+        "image": "https://i.ibb.co/FKrhkfK/dogs.jpg"
+    }
+]

@@ -1,0 +1,340 @@
+[
+    {
+        "category_id": "01",
+        "category_name": "Vegetable",
+        "product_name": "Potato",
+        "image": "https://i.ibb.co/X7vNLST/side-view-basket-bowl-full-potato-sackcloth-wooden-surface-background-with-copy-space.jpg",
+        "previous_price": "$10",
+        "new_price": "$7"
+    },
+    {
+        "category_id": "02",
+        "category_name": "Fruits",
+        "product_name": "Guava",
+        "image": "https://i.ibb.co/qsjnVgf/guyava.jpg",
+        "previous_price": "$8",
+        "new_price": "$5"
+    },
+    {
+        "category_id": "03",
+        "category_name": "Fish",
+        "product_name": "Hilsa",
+        "image": "https://assets.cntraveller.in/photos/62c5929de9c939c9d5cb4bc0/master/pass/Jora%20Ilish.jpg",
+        "previous_price": "$38"
+    },
+    {
+        "id": "1",
+        "category_id": "01",
+        "category_name": "Vegetable",
+        "product_name": "Potato",
+        "image": "https://i.ibb.co/X7vNLST/side-view-basket-bowl-full-potato-sackcloth-wooden-surface-background-with-copy-space.jpg",
+        "previous_price": "$10",
+        "new_price": "$7"
+    },
+    {
+        "id": "2",
+        "category_id": "02",
+        "category_name": "Fruits",
+        "product_name": "Guava",
+        "image": "https://i.ibb.co/qsjnVgf/guyava.jpg",
+        "previous_price": "$8",
+        "new_price": "$5"
+    },
+    {
+        "id": "3",
+        "category_id": "03",
+        "category_name": "Fish",
+        "product_name": "Hilsa",
+        "image": "https://assets.cntraveller.in/photos/62c5929de9c939c9d5cb4bc0/master/pass/Jora%20Ilish.jpg",
+        "previous_price": "$38",
+        "new_price": "$25"
+    },
+    {
+        "id": "4",
+        "category_id": "04",
+        "category_name": "Meat",
+        "product_name": "Chicken",
+        "image": "https://i.ibb.co/1ddjvhj/raw-chicken-meat.jpg",
+        "previous_price": "$28",
+        "new_price": "$18"
+    },
+    {
+        "id": "5",
+        "category_id": "05",
+        "category_name": "Edible Oil",
+        "product_name": "Olive Oil",
+        "image": "https://i.ibb.co/3dVXjJY/olive-oil.jpg",
+        "previous_price": "$18",
+        "new_price": "$16"
+    },
+    {
+        "id": "6",
+        "category_id": "06",
+        "category_name": "Milk",
+        "product_name": "Aarong Full Cream Liquid",
+        "image": "https://chaldn.com/_mpimage/aarong-dairy-uht-milk-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125267&q=best&v=1",
+        "previous_price": "$15",
+        "new_price": "$11"
+    },
+    {
+        "id": "7",
+        "category_id": "07",
+        "category_name": "Personal care",
+        "product_name": "Dove Shampoo",
+        "image": "https://i.ibb.co/M7234HM/Dove-shampoo.jpg",
+        "previous_price": "$32",
+        "new_price": "$26"
+    },
+    {
+        "id": "8",
+        "category_id": "01",
+        "category_name": "Vegetable",
+        "product_name": "Cabage",
+        "image": "https://us.123rf.com/450wm/romiri77/romiri772005/romiri77200500032/148034986-cabbage-white-cabbage-close-up-in-a-farm-field-close-up-of-head-of-red-cabbage-growing-in.jpg?ver=6",
+        "previous_price": "$10",
+        "new_price": "$8"
+    },
+    {
+        "id": "9",
+        "category_id": "01",
+        "category_name": "Vegetable",
+        "product_name": "Onion",
+        "image": "https://i.ibb.co/tb6MHhf/onion.jpg",
+        "previous_price": "$13",
+        "new_price": "$9"
+    },
+    {
+        "id": "10",
+        "category_id": "01",
+        "category_name": "Vegetable",
+        "product_name": "Carrot",
+        "image": "https://i.ibb.co/4tRQDLJ/Whats-App-Image-2023-03-24-at-00-43-07.jpg",
+        "previous_price": "$17",
+        "new_price": "$16"
+    },
+    {
+        "id": "11",
+        "category_id": "01",
+        "category_name": "Vegetable",
+        "product_name": "Tometo",
+        "image": "https://i.ibb.co/GQxTLYX/tometo.png",
+        "previous_price": "$20",
+        "new_price": "$19"
+    },
+    {
+        "id": "12",
+        "category_id": "02",
+        "category_name": "Fruits",
+        "product_name": "Mango",
+        "image": "https://i.ibb.co/RDqppp5/mango.jpg",
+        "previous_price": "$15",
+        "new_price": "$12"
+    },
+    {
+        "id": "13",
+        "category_id": "02",
+        "category_name": "Fruits",
+        "product_name": "Strawberry",
+        "image": "https://i.ibb.co/hHtHghf/strawberrie.jpg",
+        "previous_price": "$19",
+        "new_price": "$17"
+    },
+    {
+        "id": "14",
+        "category_id": "02",
+        "category_name": "Fruits",
+        "product_name": "Orange",
+        "image": "https://i.ibb.co/dG36sPK/orange.jpg",
+        "previous_price": "$16",
+        "new_price": "$12"
+    },
+    {
+        "id": "15",
+        "category_id": "02",
+        "category_name": "Fruits",
+        "product_name": "Apple",
+        "image": "https://sc04.alicdn.com/kf/H3e5ffd48156a4a2fb4e3b0095e9b20a2M.jpg",
+        "previous_price": "$22",
+        "new_price": "$19"
+    },
+    {
+        "id": "16",
+        "category_id": "03",
+        "category_name": "Fish",
+        "product_name": "Rohu",
+        "image": "https://i.ibb.co/PDHqj2X/rohu-fish.webp",
+        "previous_price": "$26",
+        "new_price": "$22"
+    },
+    {
+        "id": "17",
+        "category_id": "03",
+        "category_name": "Fish",
+        "product_name": "Prawn",
+        "image": "https://i.ibb.co/k5JVMG2/Whats-App-Image-2023-03-23-at-23-59-01.jpg",
+        "previous_price": "$27",
+        "new_price": "$24"
+    },
+    {
+        "id": "18",
+        "category_id": "03",
+        "category_name": "Fish",
+        "product_name": "Rup Chanda",
+        "image": "https://i.ibb.co/4VmxFvH/rupchanda.jpg",
+        "previous_price": "$38",
+        "new_price": "$25"
+    },
+    {
+        "id": "19",
+        "category_id": "03",
+        "category_name": "Fish",
+        "product_name": "Loitta",
+        "image": "https://i.ibb.co/0ZfVjVH/LOTIYA-1.jpg",
+        "previous_price": "$38",
+        "new_price": "$25"
+    },
+    {
+        "id": "20",
+        "category_id": "04",
+        "category_name": "Meat",
+        "product_name": "Mutton",
+        "image": "https://5.imimg.com/data5/VY/US/MY-14412836/mutton-mix-pieces-500x500.jpg",
+        "previous_price": "$32",
+        "new_price": "$31"
+    },
+    {
+        "id": "21",
+        "category_id": "04",
+        "category_name": "Meat",
+        "product_name": "Lamb",
+        "image": "https://i.ibb.co/bLsVrxH/lamb.jpg",
+        "previous_price": "$36",
+        "new_price": "$32"
+    },
+    {
+        "id": "22",
+        "category_id": "04",
+        "category_name": "Meat",
+        "product_name": "Pigeon",
+        "image": "https://i.ibb.co/LN7pnsj/pigeon.jpg",
+        "previous_price": "$28",
+        "new_price": "$18"
+    },
+    {
+        "id": "23",
+        "category_id": "04",
+        "category_name": "Meat",
+        "product_name": "Duck",
+        "image": "https://i.ibb.co/x3FC7Fv/duck.jpg",
+        "previous_price": "$22",
+        "new_price": "$20"
+    },
+    {
+        "id": "24",
+        "category_id": "05",
+        "category_name": "Edible Oil",
+        "product_name": "Fresh Soyabean Oil",
+        "image": "https://i.ibb.co/wKy9m4C/Whats-App-Image-2023-03-24-at-00-13-12.jpg",
+        "previous_price": "$29",
+        "new_price": "$28"
+    },
+    {
+        "id": "25",
+        "category_id": "05",
+        "category_name": "Edible Oil",
+        "product_name": "Saffola Active",
+        "image": "https://i.ibb.co/H793pDM/Whats-App-Image-2023-03-24-at-00-14-04.jpg",
+        "previous_price": "$35",
+        "new_price": "$33"
+    },
+    {
+        "id": "26",
+        "category_id": "05",
+        "category_name": "Edible Oil",
+        "product_name": "Rupchanda Soyabean Oil",
+        "image": "https://i.ibb.co/pRQxB4y/Whats-App-Image-2023-03-24-at-00-14-29.jpg",
+        "previous_price": "$28",
+        "new_price": "$25"
+    },
+    {
+        "id": "27",
+        "category_id": "05",
+        "category_name": "Edible Oil",
+        "product_name": "Fresh Mustard Oil",
+        "image": "https://i.ibb.co/hm40SWn/Whats-App-Image-2023-03-24-at-00-15-03.jpg",
+        "previous_price": "$24",
+        "new_price": "$23"
+    },
+    {
+        "id": "28",
+        "category_id": "06",
+        "category_name": "Milk",
+        "product_name": "Aarong Ghee",
+        "image": "https://i.ibb.co/SvNw7jB/Whats-App-Image-2023-03-24-at-00-21-51.jpg",
+        "previous_price": "$40",
+        "new_price": "$38"
+    },
+    {
+        "id": "29",
+        "category_id": "06",
+        "category_name": "Milk",
+        "product_name": "Starship Condensed Milk",
+        "image": "https://i.ibb.co/qg17WQ4/Whats-App-Image-2023-03-24-at-00-22-44.jpg",
+        "previous_price": "$15",
+        "new_price": "$11"
+    },
+    {
+        "id": "30",
+        "category_id": "06",
+        "category_name": "Milk",
+        "product_name": "Aarong Butter",
+        "image": "https://i.ibb.co/YTq0p6N/Whats-App-Image-2023-03-24-at-00-23-51.jpg",
+        "previous_price": "$42",
+        "new_price": "$40"
+    },
+    {
+        "id": "31",
+        "category_id": "06",
+        "category_name": "Milk",
+        "product_name": "Pran Sour Curd",
+        "image": "https://i.ibb.co/Fxvdnqp/Whats-App-Image-2023-03-24-at-00-25-03.jpg",
+        "previous_price": "$37",
+        "new_price": "$35"
+    },
+    {
+        "id": "32",
+        "category_id": "07",
+        "category_name": "Personal care",
+        "product_name": "Lafz Cocoa Butter Body Lotion",
+        "image": "https://i.ibb.co/xFFJW0Z/Whats-App-Image-2023-03-24-at-00-31-43.jpg",
+        "previous_price": "$44",
+        "new_price": "$41"
+    },
+    {
+        "id": "33",
+        "category_id": "07",
+        "category_name": "Personal care",
+        "product_name": "Himalaya Men Pimple Clear Neem Facewash",
+        "image": "https://i.ibb.co/3dtdp77/Whats-App-Image-2023-03-24-at-00-33-54.jpg",
+        "previous_price": "$39",
+        "new_price": "$38"
+    },
+    {
+        "id": "34",
+        "category_id": "07",
+        "category_name": "Personal care",
+        "product_name": "Tresemme Botanique Nourish And Replenish Shampoo",
+        "image": "https://i.ibb.co/M7234HM/Dove-shampoo.jpg",
+        "previous_price": "$45",
+        "new_price": "$44"
+    },
+    {
+        "id": "35",
+        "category_id": "07",
+        "category_name": "Personal care",
+        "product_name": "Parachute Skin Pure Natural Moisture Lotion",
+        "image": "https://i.ibb.co/QMdRpRJ/Whats-App-Image-2023-03-24-at-00-34-40.jpg",
+        "previous_price": "$32",
+        "new_price": "$28"
+    }
+]

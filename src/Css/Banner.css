@@ -1,0 +1,19 @@
+.background-image-set {
+    background-image: url('../assets/BannerImage/c9541e70-9166-42ce-bad4-6d75cd6a00cd.png');
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+
+.background-image-set h2 {
+    font-family: Pacifico;
+}
+
+.background-image-set p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.image-set {
+    margin-top: -230px;
+
+}

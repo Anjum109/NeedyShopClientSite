@@ -1,0 +1,54 @@
+[
+    {
+        "category_id": "03",
+        "category_name": "Fish",
+        "product_name": "Hilsa",
+        "image": "https://assets.cntraveller.in/photos/62c5929de9c939c9d5cb4bc0/master/pass/Jora%20Ilish.jpg",
+        "previous_price": "$38"
+    },
+    {
+        "id": "3",
+        "category_id": "03",
+        "category_name": "Fish",
+        "product_name": "Hilsa",
+        "image": "https://assets.cntraveller.in/photos/62c5929de9c939c9d5cb4bc0/master/pass/Jora%20Ilish.jpg",
+        "previous_price": "$38",
+        "new_price": "$25"
+    },
+    {
+        "id": "16",
+        "category_id": "03",
+        "category_name": "Fish",
+        "product_name": "Rohu",
+        "image": "https://i.ibb.co/PDHqj2X/rohu-fish.webp",
+        "previous_price": "$26",
+        "new_price": "$22"
+    },
+    {
+        "id": "17",
+        "category_id": "03",
+        "category_name": "Fish",
+        "product_name": "Prawn",
+        "image": "https://i.ibb.co/k5JVMG2/Whats-App-Image-2023-03-23-at-23-59-01.jpg",
+        "previous_price": "$27",
+        "new_price": "$24"
+    },
+    {
+        "id": "18",
+        "category_id": "03",
+        "category_name": "Fish",
+        "product_name": "Rup Chanda",
+        "image": "https://i.ibb.co/4VmxFvH/rupchanda.jpg",
+        "previous_price": "$38",
+        "new_price": "$25"
+    },
+    {
+        "id": "19",
+        "category_id": "03",
+        "category_name": "Fish",
+        "product_name": "Loitta",
+        "image": "https://i.ibb.co/0ZfVjVH/LOTIYA-1.jpg",
+        "previous_price": "$38",
+        "new_price": "$25"
+    }
+]

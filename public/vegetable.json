@@ -1,0 +1,55 @@
+[
+    {
+        "category_id": "01",
+        "category_name": "Vegetable",
+        "product_name": "Potato",
+        "image": "https://i.ibb.co/X7vNLST/side-view-basket-bowl-full-potato-sackcloth-wooden-surface-background-with-copy-space.jpg",
+        "previous_price": "$10",
+        "new_price": "$7"
+    },
+    {
+        "id": "1",
+        "category_id": "01",
+        "category_name": "Vegetable",
+        "product_name": "Potato",
+        "image": "https://i.ibb.co/X7vNLST/side-view-basket-bowl-full-potato-sackcloth-wooden-surface-background-with-copy-space.jpg",
+        "previous_price": "$10",
+        "new_price": "$7"
+    },
+    {
+        "id": "8",
+        "category_id": "01",
+        "category_name": "Vegetable",
+        "product_name": "Cabage",
+        "image": "https://us.123rf.com/450wm/romiri77/romiri772005/romiri77200500032/148034986-cabbage-white-cabbage-close-up-in-a-farm-field-close-up-of-head-of-red-cabbage-growing-in.jpg?ver=6",
+        "previous_price": "$10",
+        "new_price": "$8"
+    },
+    {
+        "id": "9",
+        "category_id": "01",
+        "category_name": "Vegetable",
+        "product_name": "Onion",
+        "image": "https://i.ibb.co/tb6MHhf/onion.jpg",
+        "previous_price": "$13",
+        "new_price": "$9"
+    },
+    {
+        "id": "10",
+        "category_id": "01",
+        "category_name": "Vegetable",
+        "product_name": "Carrot",
+        "image": "https://i.ibb.co/4tRQDLJ/Whats-App-Image-2023-03-24-at-00-43-07.jpg",
+        "previous_price": "$17",
+        "new_price": "$16"
+    },
+    {
+        "id": "11",
+        "category_id": "01",
+        "category_name": "Vegetable",
+        "product_name": "Tometo",
+        "image": "https://i.ibb.co/GQxTLYX/tometo.png",
+        "previous_price": "$20",
+        "new_price": "$19"
+    }
+]
